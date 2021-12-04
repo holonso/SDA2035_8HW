@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p08ex01", "SDA2035_8HW\p08ex01.csproj", "{1588B654-61DD-41DA-BDD2-9669E5C37D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p08ex02", "p08ex02\p08ex02.csproj", "{BF2387B0-477A-489D-94C2-151E39F2D62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1588B654-61DD-41DA-BDD2-9669E5C37D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1588B654-61DD-41DA-BDD2-9669E5C37D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1588B654-61DD-41DA-BDD2-9669E5C37D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1588B654-61DD-41DA-BDD2-9669E5C37D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2387B0-477A-489D-94C2-151E39F2D62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2387B0-477A-489D-94C2-151E39F2D62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2387B0-477A-489D-94C2-151E39F2D62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2387B0-477A-489D-94C2-151E39F2D62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0C0DE8-5A67-47FC-ACAC-D4A8757A0837}
+	EndGlobalSection
+EndGlobal
